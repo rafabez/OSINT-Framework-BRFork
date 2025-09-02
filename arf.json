@@ -7,22 +7,22 @@
       "type": "folder",
       "children": [
         {
-          "name": "caixa.gov.br",
+          "name": "Benefícios Sociais Existentes (Caixa)",
           "type": "url",
           "url": "https://www.caixa.gov.br/programas-sociais/Paginas/default.aspx"
         },
         {
-          "name": "beneficiossociais.caixa.gov.br",
+          "name": "Consulta Benefícios Sociais (Caixa)",
           "type": "url",
           "url": "https://www.beneficiossociais.caixa.gov.br/consulta/beneficio/04.01.00-00_00.asp"
         },
         {
-          "name": "consultaauxilio.cidadania.gov.br",
+          "name": "Consulta Auxílio Emergencial",
           "type": "url",
           "url": "https://consultaauxilio.cidadania.gov.br/consulta/#/"
         },
         {
-          "name": "receita.fazenda.gov.br",
+          "name": "Comprovante Situação Cadastral de Pessoa Jurídica (Receita Federal)",
           "type": "url",
           "url": "http://www.receita.fazenda.gov.br/PessoaJuridica/CNPJ/cnpjreva/Cnpjreva_Solicitacao.asp"
         },
@@ -31,7 +31,7 @@
           "type": "folder",
           "children": [
             {
-              "name": "valoresareceber.bcb.gov.br",
+              "name": "Portal de Consulta",
               "type": "url",
               "url": "https://valoresareceber.bcb.gov.br/publico/"
             },
@@ -54,102 +54,102 @@
           "type": "folder",
           "children": [
             {
-              "name": "desaparecidos.pcivil.rj.gov.br",
+              "name": "RJ - Polícia Civil",
               "type": "url",
               "url": "https://desaparecidos.pcivil.rj.gov.br/pesquisar"
             },
             {
-              "name": "desaparecidos.pr.gov.br",
+              "name": "PR - Desaparecidos",
               "type": "url",
               "url": "https://www.desaparecidos.pr.gov.br/desaparecidos/"
             },
             {
-              "name": "pc.rs.gov.br",
+              "name": "RS - Polícia Civil",
               "type": "url",
               "url": "https://www.pc.rs.gov.br/desaparecidos"
             },
             {
-              "name": "desaparecidos.pjc.mt.gov.br",
+              "name": "MT - Polícia Judiciária Civil",
               "type": "url",
               "url": "https://desaparecidos.pjc.mt.gov.br/inicio"
             },
             {
-              "name": "carapicuiba.sp.gov.br",
+              "name": "SP - Carapicuíba",
               "type": "url",
               "url": "https://carapicuiba.sp.gov.br/desaparecido"
             },
             {
-              "name": "desaparecidos.policiacivil.mg.gov.br",
+              "name": "MG - Polícia Civil",
               "type": "url",
               "url": "https://desaparecidos.policiacivil.mg.gov.br/desaparecido/album"
             },
             {
-              "name": "desaparecidosdobrasil.org",
+              "name": "Desaparecidos do Brasil (ONG)",
               "type": "url",
               "url": "https://desaparecidosdobrasil.org/pesquisar-desaparecidos/"
             },
             {
-              "name": "pcdf.df.gov.br",
+              "name": "DF - Polícia Civil",
               "type": "url",
               "url": "https://www.pcdf.df.gov.br/servicos/desaparecidos"
             },
             {
-              "name": "disquedenuncia.org.br",
+              "name": "Disque Denúncia (ONG)",
               "type": "url",
               "url": "https://www.disquedenuncia.org.br/desaparecidos-list"
             },
             {
-              "name": "ssp.ma.gov.br",
+              "name": "MA - SSP",
               "type": "url",
               "url": "https://www.ssp.ma.gov.br/disque-denuncia/desaparecidos/"
             },
             {
-              "name": "desaparecidos.pc.sc.gov.br",
+              "name": "SC - Polícia Civil",
               "type": "url",
               "url": "https://desaparecidos.pc.sc.gov.br/#/"
             },
             {
-              "name": "pm.sc.gov.br",
+              "name": "SC - PM SOS Desaparecidos",
               "type": "url",
               "url": "https://www.pm.sc.gov.br/sos-desaparecidos/default/index?sort=-desaparecido_desaparecimento_data"
             },
             {
-              "name": "policiacivil.pe.gov.br",
+              "name": "PE - Polícia Civil",
               "type": "url",
               "url": "http://www.policiacivil.pe.gov.br/adultos-desaparecidos"
             },
             {
-              "name": "www2.bauru.sp.gov.br",
+              "name": "SP - Bauru",
               "type": "url",
               "url": "https://www2.bauru.sp.gov.br/desaparecidos/"
             },
             {
-              "name": "desaparecidos.osasco.sp.gov.br",
+              "name": "SP - Osasco",
               "type": "url",
               "url": "https://desaparecidos.osasco.sp.gov.br/#/portal"
             },
             {
-              "name": "pm.ce.gov.br",
+              "name": "CE - PM",
               "type": "url",
               "url": "https://www.pm.ce.gov.br/desaparecidos/"
             },
             {
-              "name": "desaparecidos.pb.gov.br",
+              "name": "PB - Desaparecidos",
               "type": "url",
               "url": "https://desaparecidos.pb.gov.br/desaparecidos/desaparecidos.jsf"
             },
             {
-              "name": "sisgou.seds.al.gov.br",
+              "name": "AL - SEDS",
               "type": "url",
               "url": "http://sisgou.seds.al.gov.br/base2/desaparecidos_almanaque/"
             },
             {
-              "name": "feiradesantana.ba.gov.br",
+              "name": "BA - Feira de Santana",
               "type": "url",
               "url": "http://www.feiradesantana.ba.gov.br/seprev/desaparecidos/desaparecidos.asp"
             },
             {
-              "name": "policiacivil.se.gov.br",
+              "name": "SE - Polícia Civil",
               "type": "url",
               "url": "https://www.policiacivil.se.gov.br/desaparecidos/"
             },
@@ -166,12 +166,12 @@
           ]
         },
         {
-          "name": "ssp.sp.gov.br",
+          "name": "Busca por Desaparecidos (Banco de Dados Geral / São Paulo)",
           "type": "url",
           "url": "https://www.ssp.sp.gov.br/servicos/desaparecidos"
         },
         {
-          "name": "policiacientifica.sp.gov.br",
+          "name": "Busca por Desaparecidos (Banco de Dados Polícia Científica / São Paulo)",
           "type": "url",
           "url": "https://www.policiacientifica.sp.gov.br/iml/consultadesaparecidos"
         }
@@ -186,39 +186,39 @@
           "type": "folder",
           "children": [
             {
-              "name": "esaj.tjac.jus.br",
+              "name": "TJAC",
               "type": "url",
               "url": "https://esaj.tjac.jus.br/esaj/portal.do?servico=190090#"
             },
             {
-              "name": "esaj.tjce.jus.br",
+              "name": "TJCE",
               "type": "url",
               "url": "https://esaj.tjce.jus.br/esaj/portal.do?servico=190090#"
             },
             {
-              "name": "esaj.tjsc.jus.br",
+              "name": "TJSC",
               "type": "url",
               "url": "https://esaj.tjsc.jus.br/esaj/portal.do?servico=190090#"
             },
             {
-              "name": "esaj.tjsp.jus.br",
+              "name": "TJSP",
               "type": "url",
               "url": "https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090#"
             },
             {
-              "name": "esaj.tjam.jus.br",
+              "name": "TJAM",
               "type": "url",
               "url": "http://esaj.tjam.jus.br/esaj/portal.do?servico=190090#"
             }
           ]
         },
         {
-          "name": "tjba.jus.br",
+          "name": "TJBA - Busca de Processos",
           "type": "url",
           "url": "https://www.tjba.jus.br/portal/busca-resultado/#"
         },
         {
-          "name": "portalbnmp.cnj.jus.br",
+          "name": "Banco Nacional de Mandados de Prisão (BNMP)",
           "type": "url",
           "url": "https://portalbnmp.cnj.jus.br/#/pesquisa-peca#"
         },
@@ -227,34 +227,34 @@
           "type": "folder",
           "children": [
             {
-              "name": "portal.trf1.jus.br",
+              "name": "TRF1",
               "type": "url",
               "url": "https://portal.trf1.jus.br"
             },
             {
-              "name": "portal.trf2.jus.br",
+              "name": "TRF2",
               "type": "url",
               "url": "https://portal.trf2.jus.br"
             },
             {
-              "name": "portal.trf5.jus.br",
+              "name": "TRF5",
               "type": "url",
               "url": "https://portal.trf5.jus.br"
             }
           ]
         },
         {
-          "name": "jusbrasil.com.br",
+          "name": "JusBrasil",
           "type": "url",
           "url": "https://www.jusbrasil.com.br/"
         },
         {
-          "name": "escavador.com",
+          "name": "Escavador",
           "type": "url",
           "url": "https://www.escavador.com/"
         },
         {
-          "name": "publique-se.org.br",
+          "name": "ABRAJI - Publique-se (Processos de Políticos)",
           "type": "url",
           "url": "https://www.publique-se.org.br/"
         },
@@ -279,74 +279,74 @@
           "type": "folder",
           "children": [
             {
-              "name": "servicos.receita.fazenda.gov.br",
+              "name": "Receita Federal",
               "type": "url",
               "url": "http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp"
             },
             {
-              "name": "brasilcnpj.net",
+              "name": "Brasil CNPJ",
               "type": "url",
               "url": "https://brasilcnpj.net/"
             },
             {
-              "name": "cnpj.biz",
+              "name": "CNPJ.biz",
               "type": "url",
               "url": "https://cnpj.biz/"
             },
             {
-              "name": "cadastroempresa.com.br",
+              "name": "Cadastro Empresa",
               "type": "url",
               "url": "https://cadastroempresa.com.br/"
             },
             {
-              "name": "casadosdados.com.br",
+              "name": "Casa dos Dados",
               "type": "url",
               "url": "https://casadosdados.com.br/"
             },
             {
-              "name": "cnpjs.rocks",
+              "name": "CNPJs.rocks",
               "type": "url",
               "url": "https://cnpjs.rocks/"
             },
             {
-              "name": "informecadastral.com.br",
+              "name": "Informe Cadastral",
               "type": "url",
               "url": "https://www.informecadastral.com.br/"
             },
             {
-              "name": "situacaocadastral.info",
+              "name": "Situação Cadastral Info",
               "type": "url",
               "url": "https://www.situacaocadastral.info/"
             },
             {
-              "name": "www8.receita.fazenda.gov.br",
+              "name": "Simples Nacional (Receita Federal)",
               "type": "url",
               "url": "http://www8.receita.fazenda.gov.br/simplesnacional/aplicacoes.aspx?id=21"
             },
             {
-              "name": "arquivos.receitafederal.gov.br",
+              "name": "Dados Abertos CNPJ (Receita Federal)",
               "type": "url",
               "url": "https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/"
             },
             {
-              "name": "dados-abertos-rf-cnpj.casadosdados.com.br",
+              "name": "Dados Abertos RF CNPJ (Casa dos Dados)",
               "type": "url",
               "url": "https://dados-abertos-rf-cnpj.casadosdados.com.br/arquivos/"
             }
           ]
         },
         {
-          "name": "github.com",
+          "name": "Automação de Força Bruta para Encontrar CPF e Nome Completo (T)",
           "type": "url",
           "url": "https://github.com/fernandobortotti/CPF-Tools"
         },
         {
-          "name": "situacao-cadastral.com",
+          "name": "Busca Nome Usando CPF/CNPJ (Situação Cadastral)",
           "type": "url",
           "url": "https://www.situacao-cadastral.com/"
         },
         {
-          "name": "sistemas.trt3.jus.br",
+          "name": "Retornando Nome Completo CPF/CNPJ (TRT3)",
           "type": "url",
           "url": "https://sistemas.trt3.jus.br/certidao/feitosTrabalhistas/aba1.emissao.htm"
         },
@@ -355,44 +355,44 @@
           "type": "folder",
           "children": [
             {
-              "name": "redecnpj.com.br",
+              "name": "Rede CNPJ Online",
               "type": "url",
               "url": "https://www.redecnpj.com.br/rede/"
             },
             {
-              "name": "github.com",
+              "name": "Rede CNPJ Github (T)",
               "type": "url",
               "url": "https://github.com/rictom/rede-cnpj/"
             }
           ]
         },
         {
-          "name": "antecedentes.policiacivil.pa.gov.br",
+          "name": "Consulta de Antecedente Criminal (Paraná)",
           "type": "url",
           "url": "https://antecedentes.policiacivil.pa.gov.br/consulta"
         },
         {
-          "name": "cna.oab.org.br",
+          "name": "Consulta Cadastro Nacional dos Advogados (CNA - OAB)",
           "type": "url",
           "url": "https://cna.oab.org.br"
         },
         {
-          "name": "portal.cfm.org.br",
+          "name": "Consulta Conselho Federal de Medicina (CFM)",
           "type": "url",
           "url": "https://portal.cfm.org.br/busca-medicos/"
         },
         {
-          "name": "cadastro.cfp.org.br",
+          "name": "Consulta Conselho Federal de Psicologia (CFP)",
           "type": "url",
           "url": "https://cadastro.cfp.org.br"
         },
         {
-          "name": "consultaprofissional.confea.org.br",
+          "name": "Consulta Conselho Federal de Engenharia e Agronomia (Confea)",
           "type": "url",
           "url": "https://consultaprofissional.confea.org.br"
         },
         {
-          "name": "www22.receita.fazenda.gov.br",
+          "name": "Consulta MEI (Receita Federal)",
           "type": "url",
           "url": "http://www22.receita.fazenda.gov.br/inscricaomei/private/pages/certificado_acesso.jsf"
         },
@@ -401,29 +401,29 @@
           "type": "folder",
           "children": [
             {
-              "name": "www8.receita.fazenda.gov.br",
+              "name": "Consulta DASN-SIMEI",
               "type": "url",
               "url": "http://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/dasnsimei.app/Default.aspx"
             },
             {
-              "name": "www8.receita.fazenda.gov.br",
+              "name": "Controle de Acesso",
               "type": "url",
               "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/controleAcesso/Autentica.aspx?id=16"
             }
           ]
         },
         {
-          "name": "www2.dataprev.gov.br",
+          "name": "Consulta Comunicação de Decisão do Requerimento/Benefício (INSS)",
           "type": "url",
           "url": "https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER"
         },
         {
-          "name": "solucoes.receita.fazenda.gov.br",
+          "name": "Consulta Restituição do Imposto de Renda (Receita Federal)",
           "type": "url",
           "url": "http://solucoes.receita.fazenda.gov.br/Servicos/ConsRest/Atual.app/paginas/mobile/restituicaoMobi.asp"
         },
         {
-          "name": "jucesponline.sp.gov.br",
+          "name": "Consulta Junta Comercial do Estado de São Paulo (Jucesp)",
           "type": "url",
           "url": "https://www.jucesponline.sp.gov.br/Pre_Visualiza.aspx?nire={VALOR}&idproduto="
         },
@@ -432,12 +432,12 @@
           "type": "folder",
           "children": [
             {
-              "name": "respondendo.ibge.gov.br",
+              "name": "Verifique a Identidade do Entrevistador",
               "type": "url",
               "url": "https://respondendo.ibge.gov.br/verifique-a-identidade-do-entrevistador.html"
             },
             {
-              "name": "ibge.gov.br",
+              "name": "Servidores IBGE",
               "type": "url",
               "url": "https://www.ibge.gov.br/acesso-informacao/institucional/documentos-ibge/1861-novo-portal/institucional/17422-servidores.html"
             }
@@ -454,17 +454,17 @@
           "type": "folder",
           "children": [
             {
-              "name": "consultaaparelhoimpedido.com.br",
+              "name": "Consulta Aparelho Impedido",
               "type": "url",
               "url": "https://www.consultaaparelhoimpedido.com.br/public-web/welcome"
             },
             {
-              "name": "consultaserialaparelho.com.br",
+              "name": "Consulta Serial Aparelho",
               "type": "url",
               "url": "https://www.consultaserialaparelho.com.br/public-web/homeSiga"
             },
             {
-              "name": "imei.info",
+              "name": "IMEI.info",
               "type": "url",
               "url": "https://www.imei.info/pt/"
             }
@@ -475,12 +475,12 @@
           "type": "folder",
           "children": [
             {
-              "name": "consultanumero.abrtelecom.com.br",
+              "name": "Consulta Situação Atual",
               "type": "url",
               "url": "https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg"
             },
             {
-              "name": "consultanumero.abrtelecom.com.br",
+              "name": "Consulta Histórico Recente",
               "type": "url",
               "url": "https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaHistoricoRecenteCtg"
             }
@@ -491,29 +491,29 @@
           "type": "folder",
           "children": [
             {
-              "name": "consultanumero.info",
+              "name": "Consulta Número Info",
               "type": "url",
               "url": "https://consultanumero.info/"
             },
             {
-              "name": "qualoperadora.net",
+              "name": "Qual Operadora Net",
               "type": "url",
               "url": "https://www.qualoperadora.net/"
             },
             {
-              "name": "consultaoperadora.com.br",
+              "name": "Consulta Operadora Com BR",
               "type": "url",
               "url": "http://consultaoperadora.com.br/site2015/"
             },
             {
-              "name": "qualoperadora.org",
+              "name": "Qual Operadora Org",
               "type": "url",
               "url": "https://www.qualoperadora.org/"
             }
           ]
         },
         {
-          "name": "cadastropre.com.br",
+          "name": "Busca Operadora / Linha Pré Ativa por CPF (Cadastro Pré)",
           "type": "url",
           "url": "https://cadastropre.com.br/#/consulta"
         },
@@ -522,69 +522,69 @@
           "type": "folder",
           "children": [
             {
-              "name": "conexis.org.br",
+              "name": "Visão Geral (Conexis)",
               "type": "url",
               "url": "https://conexis.org.br/numeros/mapa-de-antenas-completo/"
             },
             {
-              "name": "mapadecobertura.vivo.com.br",
+              "name": "Vivo",
               "type": "url",
               "url": "https://mapadecobertura.vivo.com.br/"
             },
             {
-              "name": "claro.com.br",
+              "name": "Claro",
               "type": "url",
               "url": "https://www.claro.com.br/mapa-de-cobertura"
             },
             {
-              "name": "tim.com.br",
+              "name": "TIM",
               "type": "url",
               "url": "https://www.tim.com.br/para-voce/cobertura-e-roaming/mapa-de-cobertura"
             },
             {
-              "name": "oi.com.br",
+              "name": "Oi",
               "type": "url",
               "url": "https://www.oi.com.br/portal-oi-cobertura/"
             },
             {
-              "name": "www2.sercomtel.com.br",
+              "name": "Sercomtel",
               "type": "url",
               "url": "https://www2.sercomtel.com.br/mapa-cobertura"
             },
             {
-              "name": "algartelecom.com.br",
+              "name": "Algar Telecom",
               "type": "url",
               "url": "https://algartelecom.com.br/para-voce/celular/cobertura-celular"
             },
             {
-              "name": "brisanet.com.br",
+              "name": "Brisanet",
               "type": "url",
               "url": "https://www.brisanet.com.br/mapa-de-area-de-cobertura"
             },
             {
-              "name": "gigamaisfibra.com.br",
+              "name": "Giga Mais Fibra",
               "type": "url",
               "url": "https://www.gigamaisfibra.com.br/onde-estamos/"
             }
           ]
         },
         {
-          "name": "sistemas.anatel.gov.br",
+          "name": "Base De Orelhão X Mapa (Anatel)",
           "type": "url",
           "url": "http://sistemas.anatel.gov.br/sgmu/fiqueligado/tups.asp"
         },
         {
-          "name": "sistemas.anatel.gov.br",
+          "name": "Consultar e Identificar Frequências de Rádios (STEL - Anatel)",
           "type": "url",
           "url": "https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896"
         },
         {
-          "name": "sistemas.anatel.gov.br",
+          "name": "Consultar Responsável por um Indicativo (Anatel)",
           "type": "url",
           "url": "https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp"
         },
         {
-          "name": "araf.org.br",
+          "name": "Mais Informações sobre Rádio Amador (ARAF)",
           "type": "url",
           "url": "https://araf.org.br/anatel-links-rapidos"
         },
@@ -593,17 +593,17 @@
           "type": "folder",
           "children": [
             {
-              "name": "radioamador.com",
+              "name": "Radioamador.com",
               "type": "url",
               "url": "https://www.radioamador.com/vhf/repetidorasold.htm"
             },
             {
-              "name": "radiohaus.com.br",
+              "name": "Radiohaus",
               "type": "url",
               "url": "https://www.radiohaus.com.br/pagina.php?cod=22&nomodal"
             },
             {
-              "name": "pt.wikipedia.org",
+              "name": "Wikipedia - Faixas e Subfaixas Rádio Amador",
               "type": "url",
               "url": "https://pt.wikipedia.org/wiki/Lista_de_faixas_e_subfaixas_do_servi%C3%A7o_radioamador_no_Brasil"
             }
@@ -614,12 +614,12 @@
           "type": "folder",
           "children": [
             {
-              "name": "pt.wikipedia.org",
+              "name": "Wikipedia - DDD",
               "type": "url",
               "url": "https://pt.wikipedia.org/wiki/Discagem_direta_a_dist%C3%A2ncia"
             },
             {
-              "name": "mbi.com.br",
+              "name": "MBI - Estado onde fica DDD",
               "type": "url",
               "url": "https://www.mbi.com.br/mbi/biblioteca/utilidades/estado-onde-fica-ddd/"
             }
@@ -688,12 +688,12 @@
       "type": "folder",
       "children": [
         {
-          "name": "buscatextual.cnpq.br",
+          "name": "Buscar Currículo Lattes (CNPq)",
           "type": "url",
           "url": "https://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar"
         },
         {
-          "name": "emec.mec.gov.br",
+          "name": "Buscar Informações de Instituições de Ensino Superior (e-MEC)",
           "type": "url",
           "url": "https://emec.mec.gov.br/emec/nova#avancada"
         }
@@ -708,122 +708,122 @@
           "type": "folder",
           "children": [
             {
-              "name": "dgi.inpe.br",
+              "name": "Catálogo de Imagens",
               "type": "url",
               "url": "http://www.dgi.inpe.br/catalogo/"
             },
             {
-              "name": "sigma.cptec.inpe.br",
+              "name": "SIGMA CPTEC",
               "type": "url",
               "url": "http://sigma.cptec.inpe.br/"
             },
             {
-              "name": "sigma2.cptec.inpe.br",
+              "name": "SIGMA2 CPTEC",
               "type": "url",
               "url": "http://sigma2.cptec.inpe.br/"
             },
             {
-              "name": "sigma.cptec.inpe.br",
+              "name": "Radar CPTEC",
               "type": "url",
               "url": "http://sigma.cptec.inpe.br/radar/"
             },
             {
-              "name": "sigma.cptec.inpe.br",
+              "name": "Precipitação por Satélite",
               "type": "url",
               "url": "http://sigma.cptec.inpe.br/prec_sat/"
             },
             {
-              "name": "sigma.cptec.inpe.br",
+              "name": "FORTRACC",
               "type": "url",
               "url": "http://sigma.cptec.inpe.br/fortracc/"
             },
             {
-              "name": "satelite.cptec.inpe.br",
+              "name": "Vento por Satélite",
               "type": "url",
               "url": "http://satelite.cptec.inpe.br/vento/"
             },
             {
-              "name": "satelite.cptec.inpe.br",
+              "name": "Radiação por Satélite",
               "type": "url",
               "url": "http://satelite.cptec.inpe.br/radiacao/"
             },
             {
-              "name": "terrabrasilis.dpi.inpe.br",
+              "name": "TerraBrasilis - Alertas",
               "type": "url",
               "url": "http://terrabrasilis.dpi.inpe.br/app/map/alerts?hl=pt-br"
             },
             {
-              "name": "terrabrasilis.dpi.inpe.br",
+              "name": "TerraBrasilis - Desmatamento",
               "type": "url",
               "url": "http://terrabrasilis.dpi.inpe.br/app/map/deforestation?hl=pt-br"
             },
             {
-              "name": "www2.dgi.inpe.br",
+              "name": "Catálogo de Imagens (DGI)",
               "type": "url",
               "url": "http://www2.dgi.inpe.br/catalogo/explore"
             },
             {
-              "name": "satelite.cptec.inpe.br",
+              "name": "Mapsat",
               "type": "url",
               "url": "http://satelite.cptec.inpe.br/mapsat/"
             },
             {
-              "name": "sigma-soschuva.cptec.inpe.br",
+              "name": "SIGMA SOS Chuva",
               "type": "url",
               "url": "http://sigma-soschuva.cptec.inpe.br/#"
             },
             {
-              "name": "queimadas.dgi.inpe.br",
+              "name": "Queimadas - Banco de Dados",
               "type": "url",
               "url": "https://queimadas.dgi.inpe.br/queimadas/bdqueimadas"
             },
             {
-              "name": "queimadas.dgi.inpe.br",
+              "name": "Queimadas - Situação Atual",
               "type": "url",
               "url": "https://queimadas.dgi.inpe.br/queimadas/portal-static/situacao-atual/"
             },
             {
-              "name": "queimadas.dgi.inpe.br",
+              "name": "Queimadas - Videoaulas",
               "type": "url",
               "url": "https://queimadas.dgi.inpe.br/queimadas/portal/videoaulas"
             },
             {
-              "name": "queimadas.dgi.inpe.br",
+              "name": "Queimadas - Mapas Mensais",
               "type": "url",
               "url": "https://queimadas.dgi.inpe.br/queimadas/mapas-mensais/"
             },
             {
-              "name": "dgi.inpe.br",
+              "name": "CDSR",
               "type": "url",
               "url": "http://www.dgi.inpe.br/CDSR/"
             },
             {
-              "name": "arcgis.com",
+              "name": "ArcGIS - Áreas Queimadas DF",
               "type": "url",
               "url": "https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Farcgis.sema.df.gov.br%2Fserver%2Frest%2Fservices%2FAreas_Queimadas%2FMapServer&source=sd"
             },
             {
-              "name": "arcgis.sema.df.gov.br",
+              "name": "ArcGIS - Áreas Queimadas DF (Server)",
               "type": "url",
               "url": "https://arcgis.sema.df.gov.br/server/rest/services/Areas_Queimadas/MapServer"
             },
             {
-              "name": "cptec.inpe.br",
+              "name": "DSAT",
               "type": "url",
               "url": "https://www.cptec.inpe.br/dsat/"
             },
             {
-              "name": "mapas.sosma.org.br",
+              "name": "Mapas SOS Mata Atlântica",
               "type": "url",
               "url": "http://mapas.sosma.org.br/"
             },
             {
-              "name": "inpe.br",
+              "name": "Webelat",
               "type": "url",
               "url": "http://www.inpe.br/webelat/homepage/"
             },
             {
-              "name": "sigef.incra.gov.br",
+              "name": "SIGEF Incra",
               "type": "url",
               "url": "https://sigef.incra.gov.br/"
             }
@@ -834,19 +834,19 @@
           "type": "folder",
           "children": [
             {
-              "name": "car.gov.br",
+              "name": "Consulta Imóveis",
               "type": "url",
               "url": "https://www.car.gov.br/publico/imoveis/index"
             },
             {
-              "name": "car.gov.br",
+              "name": "Consultar CAR",
               "type": "url",
               "url": "https://www.car.gov.br/#/consultar"
             }
           ]
         },
         {
-          "name": "sicg.iphan.gov.br",
+          "name": "Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN)",
           "type": "url",
           "url": "https://sicg.iphan.gov.br/sicg/pesquisarBem"
         },
@@ -855,19 +855,19 @@
           "type": "folder",
           "children": [
             {
-              "name": "redemet.decea.gov.br",
+              "name": "REDEMET Portal",
               "type": "url",
               "url": "https://redemet.decea.gov.br/#"
             },
             {
-              "name": "redemet.decea.gov.br",
+              "name": "REDEMET Novo",
               "type": "url",
               "url": "https://redemet.decea.gov.br/novo/"
             }
           ]
         },
         {
-          "name": "bdgex.eb.mil.br",
+          "name": "Banco de Dados Geográficos do Exército (BDGEx)",
           "type": "url",
           "url": "https://bdgex.eb.mil.br/bdgexapp/mobile/"
         },
@@ -876,22 +876,22 @@
           "type": "folder",
           "children": [
             {
-              "name": "radarbox.com",
+              "name": "Radarbox",
               "type": "url",
               "url": "https://www.radarbox.com/@-19.21547,-46.45469,z5"
             },
             {
-              "name": "flightradar24.com",
+              "name": "Flightradar24",
               "type": "url",
               "url": "https://www.flightradar24.com/-18.82,-52.19/5"
             },
             {
-              "name": "edestinos.com.br",
+              "name": "Edestinos Radar",
               "type": "url",
               "url": "https://www.edestinos.com.br/radar"
             },
             {
-              "name": "planefinder.net",
+              "name": "PlaneFinder",
               "type": "url",
               "url": "https://planefinder.net/airport/BSB"
             }
@@ -902,19 +902,19 @@
           "type": "folder",
           "children": [
             {
-              "name": "sistemas.anac.gov.br",
+              "name": "Sistemas ANAC",
               "type": "url",
               "url": "https://sistemas.anac.gov.br/consultadelicencas/"
             },
             {
-              "name": "ais.cavok.in",
+              "name": "AIS Cavok",
               "type": "url",
               "url": "https://ais.cavok.in/lichab/"
             }
           ]
         },
         {
-          "name": "ibge.gov.br",
+          "name": "Cidades e Estados - IBGE",
           "type": "url",
           "url": "https://www.ibge.gov.br/cidades-e-estados/"
         }
@@ -925,12 +925,12 @@
       "type": "folder",
       "children": [
         {
-          "name": "cnes.datasus.gov.br",
+          "name": "Cadastro Nacional de Estabelecimentos de Saúde (CNES)",
           "type": "url",
           "url": "https://cnes.datasus.gov.br/"
         },
         {
-          "name": "consultafns.saude.gov.br",
+          "name": "Fundo Nacional de Saúde (FNS)",
           "type": "url",
           "url": "https://consultafns.saude.gov.br/#/consolidada"
         },
@@ -939,17 +939,17 @@
           "type": "folder",
           "children": [
             {
-              "name": "tesourotransparente.gov.br",
+              "name": "Painel de Monitoramento (Tesouro Transparente)",
               "type": "url",
               "url": "https://www.tesourotransparente.gov.br/visualizacao/painel-de-monitoramentos-dos-gastos-com-covid-19"
             },
             {
-              "name": "gov.br",
+              "name": "Painel COVID (Compras.gov.br)",
               "type": "url",
               "url": "https://www.gov.br/compras/pt-br/painel-covid"
             },
             {
-              "name": "portaldatransparencia.gov.br",
+              "name": "Coronavírus (Portal da Transparência)",
               "type": "url",
               "url": "https://portaldatransparencia.gov.br/coronavirus"
             }
@@ -971,7 +971,7 @@
               "url": "https://www.google.com/search?q=site%3Acom.br+ext%3Asql+%22CREATE+TABLE%22"
             },
             {
-              "name": "google.com",
+              "name": "site:com.br intext:'phpMyAdmin' ext:txt",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Acom.br+intext%3A%22phpMyAdmin%22+ext%3Atxt"
             },
@@ -987,12 +987,12 @@
           "type": "folder",
           "children": [
             {
-              "name": "google.com",
+              "name": "cpf 'SEU_ALVO' ext:txt",
               "type": "url",
               "url": "https://www.google.com/search?q=cpf+%22SE_ALVO%22+%22123456789%22+ext"
             },
             {
-              "name": "google.com",
+              "name": "'cpf|cnpj|email|rg|contato' ext:xls 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=%22cpf%7Ccnpj%7Cemail%7Crg%7Ccontato%22+ext%3Axls+%22SE_ALVO%22"
             }
@@ -1019,17 +1019,17 @@
           "type": "folder",
           "children": [
             {
-              "name": "google.com",
+              "name": "site:mil.br ext:pdf",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Amil.br"
             },
             {
-              "name": "google.com",
+              "name": "site:gov.br ext:xls",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Agov.br"
             },
             {
-              "name": "google.com",
+              "name": "inurl:'mil.br' ext:php",
               "type": "url",
               "url": "https://www.google.com/search?q=inurl:%22mil.br%22+ext:php"
             }
@@ -1040,34 +1040,34 @@
           "type": "folder",
           "children": [
             {
-              "name": "google.com",
+              "name": "site:anonfiles.com 'SE_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Aanonfiles.com+%22SE_ALVO%22"
             },
             {
-              "name": "google.com",
+              "name": "site:docs.google.com 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Adocs.google.com+%22SEU_ALVO%E2%80%9D"
             },
             {
-              "name": "google.com",
+              "name": "site:facebook.com 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Afacebook.com+%22SEU_ALVO%22"
             },
             {
-              "name": "google.com",
+              "name": "site:pastebin.com 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Apastebin.com+%22nubank%22"
             }
           ]
         },
         {
-          "name": "google.com",
+          "name": "Google Hacking: Filtrar Empresa via Linkedin",
           "type": "url",
           "url": "https://www.google.com/search?q=site%3Alinkedin.com+%22at+EMPRESA_ALVO%22"
         },
         {
-          "name": "google.com",
+          "name": "Google Hacking: Filtrar Grupos WhatsApp em Sites .br",
           "type": "url",
           "url": "https://www.google.com/search?q=%22https%3A%2F%2Fchat.whatsapp.com%2F%22+%26+site%3Abr"
         },
@@ -1076,12 +1076,12 @@
           "type": "folder",
           "children": [
             {
-              "name": "google.com",
+              "name": "inurl:'https://t.me' site:me 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=inurl%3A%22https%3A%2F%2Ft.me%22+site%3Ame+%22SEU_ALVO%22"
             },
             {
-              "name": "google.com",
+              "name": "site:me 'joinchat' 'SEU_ALVO'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Ame+%22joinchat%22+%22Bolsonaro%22"
             }
@@ -1092,19 +1092,19 @@
           "type": "folder",
           "children": [
             {
-              "name": "google.com",
+              "name": "site:app.powerbi.com/view?r intext:'br'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Aapp.powerbi.com%2Fview%3Fr+intext%3A%22br%22"
             },
             {
-              "name": "google.com",
+              "name": "site:app.powerbi.com/view?r intext:'brasil'",
               "type": "url",
               "url": "https://www.google.com/search?q=site%3Aapp.powerbi.com%2Fview%3Fr+intext%3A%22brasil%22"
             }
           ]
         },
         {
-          "name": "shodan.io",
+          "name": "Shodan: Busca de Servidores Brasileiro",
           "type": "url",
           "url": "https://www.shodan.io/search?query=country%3A%22BR%22"
         }
@@ -2551,1011 +2551,784 @@
           "url": "https://www.ibge.gov.br/cidades-e-estados"
         },
         {
-          "name": "Acre (AC)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Antecedente criminal",
-              "type": "url",
-              "url": "https://pc.ac.gov.br/certidao-de-antecedentes-criminais/"
-            },
-            {
-              "name": "ESAJ (Processos)",
-              "type": "url",
-              "url": "https://esaj.tjac.jus.br/esaj/portal.do?servico=190090"
-            },
-            {
-              "name": "Consulta estapagem",
-              "type": "url",
-              "url": "https://www.detran.ac.gov.br/consultar-autorizacao-de-estampagem/"
-            },
-            {
-              "name": "Consulta SNG",
-              "type": "url",
-              "url": "https://www.ac.getran.com.br/site/apps/veiculo/consulta/filtro-chassi-sng.jsp"
-            },
-            {
-              "name": "Consulta de pontuação CNH",
-              "type": "url",
-              "url": "https://www.detran.ac.gov.br/portal-de-servicos/consulta-pontuacao-de-cnh/"
-            },
-            {
-              "name": "Nota Fiscal",
-              "type": "url",
-              "url": "http://sefaznet.ac.gov.br/nfe/consulta.xhtml"
-            }
-          ]
+          "name": "pc.ac.gov.br",
+          "type": "url",
+          "url": "https://pc.ac.gov.br/certidao-de-antecedentes-criminais/"
         },
         {
-          "name": "Alagoas (AL)",
-          "type": "folder",
-          "children": []
+          "name": "esaj.tjac.jus.br",
+          "type": "url",
+          "url": "https://esaj.tjac.jus.br/esaj/portal.do?servico=190090"
         },
         {
-          "name": "Amapá (AP)",
-          "type": "folder",
-          "children": []
+          "name": "detran.ac.gov.br",
+          "type": "url",
+          "url": "https://www.detran.ac.gov.br/consultar-autorizacao-de-estampagem/"
         },
         {
-          "name": "Amazonas (AM)",
-          "type": "folder",
-          "children": []
+          "name": "ac.getran.com.br",
+          "type": "url",
+          "url": "https://www.ac.getran.com.br/site/apps/veiculo/consulta/filtro-chassi-sng.jsp"
         },
         {
-          "name": "Bahia (BA)",
-          "type": "folder",
-          "children": []
+          "name": "detran.ac.gov.br",
+          "type": "url",
+          "url": "https://www.detran.ac.gov.br/portal-de-servicos/consulta-pontuacao-de-cnh/"
         },
         {
-          "name": "Ceará (CE)",
-          "type": "folder",
-          "children": []
+          "name": "sefaznet.ac.gov.br",
+          "type": "url",
+          "url": "http://sefaznet.ac.gov.br/nfe/consulta.xhtml"
         },
         {
-          "name": "Distrito Federal (DF)",
-          "type": "folder",
-          "children": []
+          "name": "detran.go.gov.br",
+          "type": "url",
+          "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/consulta-multas-renainf"
         },
         {
-          "name": "Espírito Santo (ES)",
-          "type": "folder",
-          "children": []
+          "name": "detran.go.gov.br",
+          "type": "url",
+          "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/consulta-processo/1"
         },
         {
-          "name": "Goiás (GO)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Consulta veículos/infrações",
-              "type": "url",
-              "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/consulta-multas-renainf"
-            },
-            {
-              "name": "Consulta processos",
-              "type": "url",
-              "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/consulta-processo/1"
-            },
-            {
-              "name": "Consulta CNH_Social",
-              "type": "url",
-              "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/acompanhar-cnh-social"
-            },
-            {
-              "name": "Consulta Prontuário_CNH",
-              "type": "url",
-              "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/prontuario-cnh"
-            },
-            {
-              "name": "Primeira_CNH",
-              "type": "url",
-              "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/primeira-cnh"
-            },
-            {
-              "name": "Processos físicos 1º grau",
-              "type": "url",
-              "url": "https://www.tjgo.jus.br/index.php/processo-fisico/primeiro-grau"
-            },
-            {
-              "name": "Processo judicial digital",
-              "type": "url",
-              "url": "https://projudi.tjgo.jus.br/BuscaProcessoPublica?PaginaAtual=4"
-            },
-            {
-              "name": "Consulta Nota Fiscal",
-              "type": "url",
-              "url": "https://www.goiania.go.gov.br/sing_servicos/nota-fiscal-eletronica/"
-            },
-            {
-              "name": "Consulta DUAM-IPTU-ITU-ISSQN",
-              "type": "url",
-              "url": "https://www.goiania.go.gov.br/sing_servicos/emissao-duam-itu-iptu-issqn/"
-            },
-            {
-              "name": "Consulta matrículas",
-              "type": "url",
-              "url": "https://www.goiania.go.gov.br/sing_servicos/matriculas-web/"
-            },
-            {
-              "name": "Consulta processos",
-              "type": "url",
-              "url": "https://www.goiania.go.gov.br/sing_servicos/consulta-processos/"
-            }
-          ]
+          "name": "detran.go.gov.br",
+          "type": "url",
+          "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/acompanhar-cnh-social"
         },
         {
-          "name": "Maranhão (MA)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Serviços disponíveis TRE| Maranhão",
-              "type": "url",
-              "url": "https://www.tre-ma.jus.br/institucional/servicos-disponiveis"
-            },
-            {
-              "name": "Serviços disponíveis TRT| Maranhão",
-              "type": "url",
-              "url": "https://www.trt16.jus.br/servicos/para-o-cidadao-e-advogado"
-            },
-            {
-              "name": "Serviços disponíveis MP| Maranhão",
-              "type": "url",
-              "url": "https://www.mpma.mp.br/servicos/"
-            },
-            {
-              "name": "Serviços disponíveis TJ| Maranhão",
-              "type": "url",
-              "url": "https://www.tjma.jus.br/portal"
-            },
-            {
-              "name": "Serviços disponíveis Detran| Maranhão",
-              "type": "url",
-              "url": "https://www.detran.ma.gov.br/inicio/paginas/Home.xhtml"
-            },
-            {
-              "name": "Serviços disponíveis Assembleia legislativa| Maranhão",
-              "type": "url",
-              "url": "https://www.al.ma.leg.br/sitealema/"
-            },
-            {
-              "name": "Sistema S| Maranhão",
-              "type": "url",
-              "url": "https://www.fiema.org.br/home"
-            },
-            {
-              "name": "OBA | Maranhão",
-              "type": "url",
-              "url": "https://www.oabma.org.br/"
-            },
-            {
-              "name": "FAM | Maranhão",
-              "type": "url",
-              "url": "https://famem.org.br/"
-            },
-            {
-              "name": "Serviços disponíveis GOV| Maranhão",
-              "type": "url",
-              "url": "https://www.ma.gov.br/servicos/"
-            },
-            {
-              "name": "Governo do Maranhão",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Contatos do GOV| Maranhão",
-                  "type": "url",
-                  "url": "https://www.ma.gov.br/contatos"
-                },
-                {
-                  "name": "Diário Oficial GOV| Maranhão",
-                  "type": "url",
-                  "url": "https://www.diariooficial.ma.gov.br/"
-                }
-              ]
-            },
-            {
-              "name": "Prefeitura de São Luis",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Serviços disponíveis Prefeitura | São Luis",
-                  "type": "url",
-                  "url": "https://saoluis.ma.gov.br/servicos"
-                },
-                {
-                  "name": "Portal da Transparência Prefeitura | São Luis",
-                  "type": "url",
-                  "url": "https://transparencia.saoluis.ma.gov.br/"
-                },
-                {
-                  "name": "Informações de Secretarias e Orgãos da prefeitura | São Luis",
-                  "type": "url",
-                  "url": "https://saoluis.ma.gov.br/secretarias"
-                },
-                {
-                  "name": "Diário Eletrônico Prefeitura | São Luis",
-                  "type": "url",
-                  "url": "https://diariooficial.saoluis.ma.gov.br/"
-                }
-              ]
-            },
-            {
-              "name": "Prefeitura São José de Ribamar",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Serviços disponíveis Prefeitura | São José de Ribamar",
-                  "type": "url",
-                  "url": "https://www.saojosederibamar.ma.gov.br/servicos"
-                },
-                {
-                  "name": "Portal da Transparência Prefeitura | São José de Ribamar",
-                  "type": "url",
-                  "url": "https://transparencia.saojosederibamar.ma.gov.br/"
-                },
-                {
-                  "name": "Informações de Secretarias e Orgãos da prefeitura | São José de Ribamar",
-                  "type": "url",
-                  "url": "https://www.saojosederibamar.ma.gov.br/detalhe-da-materia/info/secretarias/16510"
-                },
-                {
-                  "name": "Diário Eletrônico Prefeitura | São José de Ribamar",
-                  "type": "url",
-                  "url": "https://www.saojosederibamar.ma.gov.br/detalhe-da-materia/info/diario-eletronico/148327"
-                }
-              ]
-            },
-            {
-              "name": "Cameras Ao vivo",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "São Luis",
-                  "type": "url",
-                  "url": "https://www.climaaovivo.com.br/ma/sao-luis-hotel-abbeville"
-                },
-                {
-                  "name": "Açailandia",
-                  "type": "url",
-                  "url": "https://www.climaaovivo.com.br/ma/acailandia/acailandia"
-                },
-                {
-                  "name": "Imperatriz",
-                  "type": "url",
-                  "url": "https://www.climaaovivo.com.br/ma/imperatriz/centro-empresarial-oeste"
-                },
-                {
-                  "name": "Imperatriz",
-                  "type": "url",
-                  "url": "https://www.climaaovivo.com.br/ma/imperatriz/centro-empresarial-leste"
-                }
-              ]
-            },
-            {
-              "name": "Conselhos",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "CRMMA",
-                  "type": "url",
-                  "url": "https://crmma.org.br/servicos-para-medicos/certidoes-declaracoes/certidao-negativa-nada-consta"
-                },
-                {
-                  "name": "CRFMA",
-                  "type": "url",
-                  "url": "https://crfma.org.br/"
-                },
-                {
-                  "name": "CREAMA",
-                  "type": "url",
-                  "url": "https://www.creama.org.br/"
-                },
-                {
-                  "name": "CRPMA",
-                  "type": "url",
-                  "url": "https://crpma.org.br/"
-                },
-                {
-                  "name": "CREFMA",
-                  "type": "url",
-                  "url": "https://cref21.org.br/"
-                },
-                {
-                  "name": "CRAMA",
-                  "type": "url",
-                  "url": "https://cra-ma.org.br/"
-                },
-                {
-                  "name": "COREMA",
-                  "type": "url",
-                  "url": "https://www.coremaranhao.org.br/"
-                },
-                {
-                  "name": "CORENMA",
-                  "type": "url",
-                  "url": "https://corenma.gov.br/site2/"
-                },
-                {
-                  "name": "CEEM",
-                  "type": "url",
-                  "url": "https://conselhodeeducacao.ma.gov.br/"
-                },
-                {
-                  "name": "CRCMA",
-                  "type": "url",
-                  "url": "https://crcma.org.br/"
-                },
-                {
-                  "name": "CRTMA",
-                  "type": "url",
-                  "url": "https://www.crt02.gov.br/maranhao/"
-                },
-                {
-                  "name": "CRQMA",
-                  "type": "url",
-                  "url": "https://crq11.org.br/"
-                },
-                {
-                  "name": "CRESSMA",
-                  "type": "url",
-                  "url": "https://www.cressma.org.br/"
-                },
-                {
-                  "name": "CROMA",
-                  "type": "url",
-                  "url": "https://www.croma.org.br/"
-                },
-                {
-                  "name": "CFCMA",
-                  "type": "url",
-                  "url": "https://cfc.org.br/conselhos/conselho-regional-de-contabilidade-do-maranhao/"
-                },
-                {
-                  "name": "CRMVMA",
-                  "type": "url",
-                  "url": "https://www.crmvma.org.br/"
-                },
-                {
-                  "name": "CRTRMA",
-                  "type": "url",
-                  "url": "https://crtr17.gov.br/"
-                },
-                {
-                  "name": "CORECON",
-                  "type": "url",
-                  "url": "https://corecon-ma.org.br/"
-                },
-                {
-                  "name": "CRCMA",
-                  "type": "url",
-                  "url": "https://crcma.org.br/crcma/"
-                },
-                {
-                  "name": "CRBMMA",
-                  "type": "url",
-                  "url": "https://crbm2.gov.br/"
-                },
-                {
-                  "name": "CRNMA",
-                  "type": "url",
-                  "url": "https://crbm2.gov.br/"
-                }
-              ]
-            },
-            {
-              "name": "Serviços",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "CAEMA",
-                  "type": "url",
-                  "url": "https://www.caema.ma.gov.br/"
-                },
-                {
-                  "name": "EQUATORIAL",
-                  "type": "url",
-                  "url": "https://ma.equatorialenergia.com.br/"
-                },
-                {
-                  "name": "BRK",
-                  "type": "url",
-                  "url": "https://minhabrk.com.br/home"
-                }
-              ]
-            }
-          ]
+          "name": "detran.go.gov.br",
+          "type": "url",
+          "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/prontuario-cnh"
         },
         {
-          "name": "Mato Grosso (MT)",
-          "type": "folder",
-          "children": []
+          "name": "detran.go.gov.br",
+          "type": "url",
+          "url": "https://www.detran.go.gov.br/psw/#/pages/conteudo/primeira-cnh"
         },
         {
-          "name": "Mato Grosso do Sul (MS)",
-          "type": "folder",
-          "children": []
+          "name": "tjgo.jus.br",
+          "type": "url",
+          "url": "https://www.tjgo.jus.br/index.php/processo-fisico/primeiro-grau"
         },
         {
-          "name": "Minas Gerais (MG)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Consulta de Certidão Negativa de Débito | Belo Horizonte",
-              "type": "url",
-              "url": "http://cndonline.siatu.pbh.gov.br/CNDOnline/?null"
-            }
-          ]
+          "name": "projudi.tjgo.jus.br",
+          "type": "url",
+          "url": "https://projudi.tjgo.jus.br/BuscaProcessoPublica?PaginaAtual=4"
         },
         {
-          "name": "Pará (PA)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Consulta de Veículo Detalhada",
-              "type": "url",
-              "url": "https://www.detran.pa.gov.br/sistransito/detran-web/servicos/veiculos/indexRenavam.jsf"
-            },
-            {
-              "name": "Consultar Pontuação CNH",
-              "type": "url",
-              "url": "https://www.detran.pa.gov.br/servicos/pontuacao/index.php"
-            },
-            {
-              "name": "Consulta de Antecedente Criminal",
-              "type": "url",
-              "url": "https://antecedentes.pc.pa.gov.br/consulta"
-            },
-            {
-              "name": "Consulta de Processo Administrativo Eletrônico",
-              "type": "url",
-              "url": "https://pae-consulta-publica.sistemas.pa.gov.br/"
-            },
-            {
-              "name": "Consulta Empresa",
-              "type": "url",
-              "url": "https://integrador.jucepa.pa.gov.br/projetos/usuario/consulta_empresa_site"
-            },
-            {
-              "name": "Boletim Geral de Bombeiros",
-              "type": "url",
-              "url": "https://siga.bombeiros.pa.gov.br/boletins.php"
-            }
-          ]
+          "name": "goiania.go.gov.br",
+          "type": "url",
+          "url": "https://www.goiania.go.gov.br/sing_servicos/nota-fiscal-eletronica/"
         },
         {
-          "name": "Paraíba (PB)",
-          "type": "folder",
-          "children": []
+          "name": "goiania.go.gov.br",
+          "type": "url",
+          "url": "https://www.goiania.go.gov.br/sing_servicos/emissao-duam-itu-iptu-issqn/"
         },
         {
-          "name": "Paraná (PR)",
-          "type": "folder",
-          "children": []
+          "name": "goiania.go.gov.br",
+          "type": "url",
+          "url": "https://www.goiania.go.gov.br/sing_servicos/matriculas-web/"
         },
         {
-          "name": "Pernambuco (PE)",
-          "type": "folder",
-          "children": []
+          "name": "goiania.go.gov.br",
+          "type": "url",
+          "url": "https://www.goiania.go.gov.br/sing_servicos/consulta-processos/"
         },
         {
-          "name": "Piauí (PI)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Impedidos de contratar com o poder público",
-              "type": "url",
-              "url": "https://sistemas.tce.pi.gov.br/ImpedimentoAS/impedimentos/listapessoas.xhtml"
-            },
-            {
-              "name": "Sistema Intranet Corpo de Bombeiros Militar do Piauí",
-              "type": "url",
-              "url": "http://www.bombeiros.pi.gov.br/distec/index2.php"
-            },
-            {
-              "name": "Licenciamento Detran-PI",
-              "type": "url",
-              "url": "http://taxas.detran.pi.gov.br/licenciamento/index.jsf"
-            },
-            {
-              "name": "Sefaz Piauí",
-              "type": "url",
-              "url": "https://webas.sefaz.pi.gov.br/"
-            },
-            {
-              "name": "Inadimplentes",
-              "type": "url",
-              "url": "https://webas.sefaz.pi.gov.br/caginweb/"
-            },
-            {
-              "name": "Certidões",
-              "type": "url",
-              "url": "https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml"
-            },
-            {
-              "name": "MEI",
-              "type": "url",
-              "url": "https://webas.sefaz.pi.gov.br/MEI-WEB/"
-            }
-          ]
+          "name": "tre-ma.jus.br",
+          "type": "url",
+          "url": "https://www.tre-ma.jus.br/institucional/servicos-disponiveis"
         },
         {
-          "name": "Rio de Janeiro (RJ)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Justiça Militar",
-              "type": "url",
-              "url": "https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa"
-            },
-            {
-              "name": "Justiça Federal",
-              "type": "url",
-              "url": "https://procweb.jfrj.jus.br/certidao/emissao_cert.asp"
-            },
-            {
-              "name": "Crimes Eleitorais",
-              "type": "url",
-              "url": "https://www.tse.jus.br/eleitor/certidoes/certidao-de-crimes-eleitorais"
-            },
-            {
-              "name": "Antecedentes Criminais",
-              "type": "url",
-              "url": "http://atestadodic.detran.rj.gov.br/"
-            },
-            {
-              "name": "Certidão de interio TEOR (CIT)",
-              "type": "url",
-              "url": "http://certidaoiifppcerj.detran.rj.gov.br/"
-            },
-            {
-              "name": "B.O",
-              "type": "url",
-              "url": "https://dedic.pcivil.rj.gov.br/Consulta.aspx"
-            },
-            {
-              "name": "Consulta de Dados via RENAVAM",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "CONSULTA DÉBITO DE VEÍCULO - RJ",
-                  "type": "url",
-                  "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJLoader.do"
-                },
-                {
-                  "name": "Documento Único do DETRAN de Arrecadação - RH",
-                  "type": "url",
-                  "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJDudaSelecionarProduto.do?cdProdutoInicial=INI"
-                },
-                {
-                  "name": "Guia de Recolhimento de Multas - RH",
-                  "type": "url",
-                  "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJGrmConsultar.do"
-                },
-                {
-                  "name": "Guia de Regularização de Taxas - RJ",
-                  "type": "url",
-                  "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/DebitoVeiculoRJGRTLoaderAction.do"
-                },
-                {
-                  "name": "Informações de Pagamentos Efetuados - RJ",
-                  "type": "url",
-                  "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJConsultaLoader.do"
-                }
-              ]
-            }
-          ]
+          "name": "trt16.jus.br",
+          "type": "url",
+          "url": "https://www.trt16.jus.br/servicos/para-o-cidadao-e-advogado"
         },
         {
-          "name": "Rio Grande do Norte (RN)",
-          "type": "folder",
-          "children": []
+          "name": "mpma.mp.br",
+          "type": "url",
+          "url": "https://www.mpma.mp.br/servicos/"
         },
         {
-          "name": "Rio Grande do Sul (RS)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Monitoramento de Rodovias",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Localizar pessoas desaparecidas nas enchentes do RS",
-                  "type": "url",
-                  "url": "https://www.achados-e-perdidos-rs.com.br/"
-                },
-                {
-                  "name": "Osório: RS-389 KM 14",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6716"
-                },
-                {
-                  "name": "Osório: ERS-030 KM 89,9",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6714"
-                },
-                {
-                  "name": "Osório: ERS-030, 1916 KM 85,3",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6713"
-                },
-                {
-                  "name": "Restinga Seca: ERS-149 KM 100",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Restinga_Seca"
-                },
-                {
-                  "name": "Ijuí: ERS-155 KM 2,3",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Ijui"
-                },
-                {
-                  "name": "Santa Maria: ERS-509 KM 4,1",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Santa_Maria"
-                },
-                {
-                  "name": "Venâncio Aires: RSC-453 KM 4,1",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Venancio_Aires"
-                },
-                {
-                  "name": "Montenegro: ERS-124 KM 29,6",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Montenegro01"
-                },
-                {
-                  "name": "Montenegro: RSC-287 KM 3,4",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Montenegro02"
-                },
-                {
-                  "name": "Montenegro: RSC-287 KM 8",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6208.jpg"
-                },
-                {
-                  "name": "Portão: ERS-240 KM 9,9",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Portao"
-                },
-                {
-                  "name": "São Jerônimo: ERS-401 KM 10,3",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Sao_Jeronimo"
-                },
-                {
-                  "name": "Farroupilha: RSC-453 KM 121,3",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Farroupilha"
-                },
-                {
-                  "name": "Farroupilha: RSC-453 KM 109",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6212.jpg"
-                },
-                {
-                  "name": "Farroupilha: ERS-122 KM 47",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6213.jpg"
-                },
-                {
-                  "name": "Caxias do Sul: RSC-453 KM 143",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Caxias_do_Sul"
-                },
-                {
-                  "name": "Caxias do Sul: ERS-122 KM 66,56",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6743"
-                },
-                {
-                  "name": "Caxias do Sul: RSC-453 KM 168,36",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6744"
-                },
-                {
-                  "name": "Glorinha: ERS-030 KM 24,2",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Glorinha"
-                },
-                {
-                  "name": "Igrejinha: ERS-115 KM 115",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Igrejinha"
-                },
-                {
-                  "name": "Gramado: ERS-235 KM 36,6",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Gramado01"
-                },
-                {
-                  "name": "Gramado: ERS-235 KM 36,6",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Gramado02"
-                },
-                {
-                  "name": "Itati: ERS-486 KM 29,7",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Itati"
-                },
-                {
-                  "name": "Candelária: RSC-287 KM 135",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6210.jpg"
-                },
-                {
-                  "name": "Boa Vista do Cadeado: ERS-342 KM 137",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6214.jpg"
-                },
-                {
-                  "name": "Vera Cruz: RSC-287 KM 113",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6215.jpg"
-                },
-                {
-                  "name": "Passo Fundo: ERS-324 KM 195",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6216.jpg"
-                },
-                {
-                  "name": "Passo Fundo: ERS-324 KM 182,4",
-                  "type": "url",
-                  "url": "http://186.227.239.150:2150/ftp/imagem.php?id=Passo_Fundo"
-                },
-                {
-                  "name": "Novos Cabrais: RSC-287 KM 166",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6211.jpg"
-                },
-                {
-                  "name": "Capão da Canoa: ERS-389 KM 36,9",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6718"
-                },
-                {
-                  "name": "Torres: ERS-389 KM 86,1",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/live/media/PK5916/DeviceIpint.6/SourceEndpoint.video:0:0"
-                },
-                {
-                  "name": "Parobé: ERS-239 KM 42,3",
-                  "type": "url",
-                  "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.7/SourceEndpoint.video:0:0"
-                },
-                {
-                  "name": "Sapiranga: ERS-239 KM 32",
-                  "type": "url",
-                  "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.8/SourceEndpoint.video:0:0"
-                },
-                {
-                  "name": "São Leopoldo: ERS-240 KM 2",
-                  "type": "url",
-                  "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.9/SourceEndpoint.video:0:0"
-                },
-                {
-                  "name": "Capela de Santana: ERS-240 KM 22,1",
-                  "type": "url",
-                  "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.10/SourceEndpoint.video:0:0"
-                },
-                {
-                  "name": "São Sebastião do Caí: ERS-122 KM 6,5",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6734"
-                },
-                {
-                  "name": "São Sebastião do Caí: ERS-122 KM 15,9",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6737"
-                },
-                {
-                  "name": "Bom Princípio: ERS-122 KM 29,45",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6739"
-                },
-                {
-                  "name": "Teutônia: RSC-453 KM 55,8",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6748"
-                },
-                {
-                  "name": "Serafina Côrrea: ERS-129 KM 147,2",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Serafina_Correa"
-                },
-                {
-                  "name": "Nova Bassano: ERS- 324 KM 282,7",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Nova_Bassano"
-                },
-                {
-                  "name": "Sananduva: ERS-126 KM 110",
-                  "type": "url",
-                  "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Sananduva"
-                },
-                {
-                  "name": "Estação: ERS-135 KM 48,4",
-                  "type": "url",
-                  "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6204.jpg"
-                },
-                {
-                  "name": "Viamão: ERS-040 KM 14",
-                  "type": "url",
-                  "url": "https://camerasdaer.perkons.com:60000/DAER-6712"
-                },
-                {
-                  "name": "Emitir certidão de antecedentes criminais",
-                  "type": "url",
-                  "url": "https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais"
-                }
-              ]
-            }
-          ]
+          "name": "tjma.jus.br",
+          "type": "url",
+          "url": "https://www.tjma.jus.br/portal"
         },
         {
-          "name": "Rondônia (RO)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Consultas Veiculares e Afins RO",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Consultar Veículos por placa + renavam e/ou CPF/CNPJ",
-                  "type": "url",
-                  "url": "https://consulta.detran.ro.gov.br/CentralDeConsultasInternet/Software/ViewConsultaVeiculos.aspx"
-                },
-                {
-                  "name": "Descobrir Número da CNH com CPF e Data de Nascimento",
-                  "type": "url",
-                  "url": "https://consulta.detran.ro.gov.br/CentralDeConsultasInternet/Internet/Habilitacao/ConsultaProcesso.asp"
-                },
-                {
-                  "name": "Consulta Pública do Veículo",
-                  "type": "url",
-                  "url": "https://centralservicos.detran.ro.gov.br/consulta/veiculo"
-                },
-                {
-                  "name": "Consultar Resultado da Prova do Detran",
-                  "type": "url",
-                  "url": "https://consulta.detran.ro.gov.br/ResultadoProva"
-                }
-              ]
-            },
-            {
-              "name": "Imóveis Porto Velho",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Certidão Negativa de Débitos de Tributos Fiscais",
-                  "type": "url",
-                  "url": "https://semfazonline.portovelho.ro.gov.br/portal/certidao_negativa.action"
-                },
-                {
-                  "name": "Consulta de Débitos Imobiliários - IPTU",
-                  "type": "url",
-                  "url": "https://semfazonline.portovelho.ro.gov.br/portal/iptu_consulta_debito_input.action"
-                },
-                {
-                  "name": "Consulta Empresas Cadastradas",
-                  "type": "url",
-                  "url": "https://semfazonline.portovelho.ro.gov.br/portal/consulta_empresa_input.action"
-                }
-              ]
-            }
-          ]
+          "name": "detran.ma.gov.br",
+          "type": "url",
+          "url": "https://www.detran.ma.gov.br/inicio/paginas/Home.xhtml"
         },
         {
-          "name": "Roraima (RR)",
-          "type": "folder",
-          "children": []
+          "name": "al.ma.leg.br",
+          "type": "url",
+          "url": "https://www.al.ma.leg.br/sitealema/"
         },
         {
-          "name": "Santa Catarina (SC)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Monitoramento de Segurança Pública",
-              "type": "folder",
-              "children": [
-                {
-                  "name": "Ponte Hercílio Luz 01: Santa Catarina",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_159&width=1920&height=1080"
-                },
-                {
-                  "name": "Ponte Hercílio Luz 02: Santa Catarina",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_160&width=1920&height=1080"
-                },
-                {
-                  "name": "Ponte Hercílio Luz 03: Santa Catarina",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_162&width=1920&height=1080"
-                },
-                {
-                  "name": "Lauro Linhares/Álvaro Ramos: Trindade",
-                  "type": "url",
-                  "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_051&width=1920&height=1080"
-                },
-                {
-                  "name": "Lauro Linhares/Álvaro Ramos 02: Trindade",
-                  "type": "url",
-                  "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_052&width=1920&height=1080"
-                },
-                {
-                  "name": "Lauro Linhares/Travessa São Lourenço 01: Trindade",
-                  "type": "url",
-                  "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_061&width=1920&height=1080"
-                },
-                {
-                  "name": "Lauro Linhares/Travessa São Lourenço 02: Trindade",
-                  "type": "url",
-                  "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_062&width=1920&height=1080"
-                },
-                {
-                  "name": "Rua 13 de Maio/Sebastião Lara: Biguaçú",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_012&width=1920&height=1080"
-                },
-                {
-                  "name": "Rua Júlio T. Martins/Homero de Miranda Gome: Biguaçú",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_020&width=1920&height=1080"
-                },
-                {
-                  "name": "Marginal BR101/Rua Acácio Reitz: Biguaçú",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_032&width=1920&height=1080"
-                },
-                {
-                  "name": "Major Livramento/Rua João José Rodrigues: Biguaçú",
-                  "type": "url",
-                  "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_VDV_040&width=1920&height=1080"
-                },
-                {
-                  "name": "Antecedentes Criminais",
-                  "type": "url",
-                  "url": "https://sistemas.pc.sc.gov.br/formulario-antecedentes-cidadao/#/"
-                }
-              ]
-            }
-          ]
+          "name": "fiema.org.br",
+          "type": "url",
+          "url": "https://www.fiema.org.br/home"
         },
         {
-          "name": "São Paulo (SP)",
-          "type": "folder",
-          "children": [
-            {
-              "name": "Consulta de Processos WEB | Limeira",
-              "type": "url",
-              "url": "https://serv42.limeira.sp.gov.br/procweb/cnsProcesso/"
-            },
-            {
-              "name": "Consulta Situação RG",
-              "type": "url",
-              "url": "https://www.policiacivil.sp.gov.br/portal/faces/pages_home/servicos/consultaSituacaoRG"
-            },
-            {
-              "name": "Consulta de concluentes em unidades escolares do Estado",
-              "type": "url",
-              "url": "https://concluintes.educacao.sp.gov.br/publica/consultapublica/Search"
-            },
-            {
-              "name": "Consulta de nome e salários de servidores do Estado",
-              "type": "url",
-              "url": "https://www.transparencia.sp.gov.br/home/servidor"
-            }
-          ]
+          "name": "oabma.org.br",
+          "type": "url",
+          "url": "https://www.oabma.org.br/"
         },
         {
-          "name": "Sergipe (SE)",
-          "type": "folder",
-          "children": []
+          "name": "famem.org.br",
+          "type": "url",
+          "url": "https://famem.org.br/"
         },
         {
-          "name": "Tocantins (TO)",
-          "type": "folder",
-          "children": []
+          "name": "ma.gov.br",
+          "type": "url",
+          "url": "https://www.ma.gov.br/servicos/"
+        },
+        {
+          "name": "ma.gov.br",
+          "type": "url",
+          "url": "https://www.ma.gov.br/contatos"
+        },
+        {
+          "name": "diariooficial.ma.gov.br",
+          "type": "url",
+          "url": "https://www.diariooficial.ma.gov.br/"
+        },
+        {
+          "name": "saoluis.ma.gov.br",
+          "type": "url",
+          "url": "https://saoluis.ma.gov.br/servicos"
+        },
+        {
+          "name": "transparencia.saoluis.ma.gov.br",
+          "type": "url",
+          "url": "https://transparencia.saoluis.ma.gov.br/"
+        },
+        {
+          "name": "saoluis.ma.gov.br",
+          "type": "url",
+          "url": "https://saoluis.ma.gov.br/secretarias"
+        },
+        {
+          "name": "diariooficial.saoluis.ma.gov.br",
+          "type": "url",
+          "url": "https://diariooficial.saoluis.ma.gov.br/"
+        },
+        {
+          "name": "saojosederibamar.ma.gov.br",
+          "type": "url",
+          "url": "https://www.saojosederibamar.ma.gov.br/servicos"
+        },
+        {
+          "name": "transparencia.saojosederibamar.ma.gov.br",
+          "type": "url",
+          "url": "https://transparencia.saojosederibamar.ma.gov.br/"
+        },
+        {
+          "name": "saojosederibamar.ma.gov.br",
+          "type": "url",
+          "url": "https://www.saojosederibamar.ma.gov.br/detalhe-da-materia/info/secretarias/16510"
+        },
+        {
+          "name": "saojosederibamar.ma.gov.br",
+          "type": "url",
+          "url": "https://www.saojosederibamar.ma.gov.br/detalhe-da-materia/info/diario-eletronico/148327"
+        },
+        {
+          "name": "climaaovivo.com.br",
+          "type": "url",
+          "url": "https://www.climaaovivo.com.br/ma/sao-luis-hotel-abbeville"
+        },
+        {
+          "name": "climaaovivo.com.br",
+          "type": "url",
+          "url": "https://www.climaaovivo.com.br/ma/acailandia/acailandia"
+        },
+        {
+          "name": "climaaovivo.com.br",
+          "type": "url",
+          "url": "https://www.climaaovivo.com.br/ma/imperatriz/centro-empresarial-oeste"
+        },
+        {
+          "name": "climaaovivo.com.br",
+          "type": "url",
+          "url": "https://www.climaaovivo.com.br/ma/imperatriz/centro-empresarial-leste"
+        },
+        {
+          "name": "crmma.org.br",
+          "type": "url",
+          "url": "https://crmma.org.br/servicos-para-medicos/certidoes-declaracoes/certidao-negativa-nada-consta"
+        },
+        {
+          "name": "crfma.org.br",
+          "type": "url",
+          "url": "https://crfma.org.br/"
+        },
+        {
+          "name": "creama.org.br",
+          "type": "url",
+          "url": "https://www.creama.org.br/"
+        },
+        {
+          "name": "crpma.org.br",
+          "type": "url",
+          "url": "https://crpma.org.br/"
+        },
+        {
+          "name": "cref21.org.br",
+          "type": "url",
+          "url": "https://cref21.org.br/"
+        },
+        {
+          "name": "cra-ma.org.br",
+          "type": "url",
+          "url": "https://cra-ma.org.br/"
+        },
+        {
+          "name": "coremaranhao.org.br",
+          "type": "url",
+          "url": "https://www.coremaranhao.org.br/"
+        },
+        {
+          "name": "corenma.gov.br",
+          "type": "url",
+          "url": "https://corenma.gov.br/site2/"
+        },
+        {
+          "name": "conselhodeeducacao.ma.gov.br",
+          "type": "url",
+          "url": "https://conselhodeeducacao.ma.gov.br/"
+        },
+        {
+          "name": "crcma.org.br",
+          "type": "url",
+          "url": "https://crcma.org.br/"
+        },
+        {
+          "name": "crt02.gov.br",
+          "type": "url",
+          "url": "https://www.crt02.gov.br/maranhao/"
+        },
+        {
+          "name": "crq11.org.br",
+          "type": "url",
+          "url": "https://crq11.org.br/"
+        },
+        {
+          "name": "cressma.org.br",
+          "type": "url",
+          "url": "https://www.cressma.org.br/"
+        },
+        {
+          "name": "croma.org.br",
+          "type": "url",
+          "url": "https://www.croma.org.br/"
+        },
+        {
+          "name": "cfc.org.br",
+          "type": "url",
+          "url": "https://cfc.org.br/conselhos/conselho-regional-de-contabilidade-do-maranhao/"
+        },
+        {
+          "name": "crmvma.org.br",
+          "type": "url",
+          "url": "https://www.crmvma.org.br/"
+        },
+        {
+          "name": "crtr17.gov.br",
+          "type": "url",
+          "url": "https://crtr17.gov.br/"
+        },
+        {
+          "name": "corecon-ma.org.br",
+          "type": "url",
+          "url": "https://corecon-ma.org.br/"
+        },
+        {
+          "name": "crcma.org.br",
+          "type": "url",
+          "url": "https://crcma.org.br/crcma/"
+        },
+        {
+          "name": "crbm2.gov.br",
+          "type": "url",
+          "url": "https://crbm2.gov.br/"
+        },
+        {
+          "name": "caema.ma.gov.br",
+          "type": "url",
+          "url": "https://www.caema.ma.gov.br/"
+        },
+        {
+          "name": "ma.equatorialenergia.com.br",
+          "type": "url",
+          "url": "https://ma.equatorialenergia.com.br/"
+        },
+        {
+          "name": "minhabrk.com.br",
+          "type": "url",
+          "url": "https://minhabrk.com.br/home"
+        },
+        {
+          "name": "cndonline.siatu.pbh.gov.br",
+          "type": "url",
+          "url": "http://cndonline.siatu.pbh.gov.br/CNDOnline/?null"
+        },
+        {
+          "name": "detran.pa.gov.br",
+          "type": "url",
+          "url": "https://www.detran.pa.gov.br/sistransito/detran-web/servicos/veiculos/indexRenavam.jsf"
+        },
+        {
+          "name": "detran.pa.gov.br",
+          "type": "url",
+          "url": "https://www.detran.pa.gov.br/servicos/pontuacao/index.php"
+        },
+        {
+          "name": "antecedentes.pc.pa.gov.br",
+          "type": "url",
+          "url": "https://antecedentes.pc.pa.gov.br/consulta"
+        },
+        {
+          "name": "pae-consulta-publica.sistemas.pa.gov.br",
+          "type": "url",
+          "url": "https://pae-consulta-publica.sistemas.pa.gov.br/"
+        },
+        {
+          "name": "integrador.jucepa.pa.gov.br",
+          "type": "url",
+          "url": "https://integrador.jucepa.pa.gov.br/projetos/usuario/consulta_empresa_site"
+        },
+        {
+          "name": "siga.bombeiros.pa.gov.br",
+          "type": "url",
+          "url": "https://siga.bombeiros.pa.gov.br/boletins.php"
+        },
+        {
+          "name": "sistemas.tce.pi.gov.br",
+          "type": "url",
+          "url": "https://sistemas.tce.pi.gov.br/ImpedimentoAS/impedimentos/listapessoas.xhtml"
+        },
+        {
+          "name": "bombeiros.pi.gov.br",
+          "type": "url",
+          "url": "http://www.bombeiros.pi.gov.br/distec/index2.php"
+        },
+        {
+          "name": "taxas.detran.pi.gov.br",
+          "type": "url",
+          "url": "http://taxas.detran.pi.gov.br/licenciamento/index.jsf"
+        },
+        {
+          "name": "webas.sefaz.pi.gov.br",
+          "type": "url",
+          "url": "https://webas.sefaz.pi.gov.br/"
+        },
+        {
+          "name": "webas.sefaz.pi.gov.br",
+          "type": "url",
+          "url": "https://webas.sefaz.pi.gov.br/caginweb/"
+        },
+        {
+          "name": "webas.sefaz.pi.gov.br",
+          "type": "url",
+          "url": "https://webas.sefaz.pi.gov.br/certidaonft-web/index.xhtml"
+        },
+        {
+          "name": "webas.sefaz.pi.gov.br",
+          "type": "url",
+          "url": "https://webas.sefaz.pi.gov.br/MEI-WEB/"
+        },
+        {
+          "name": "stm.jus.br",
+          "type": "url",
+          "url": "https://www.stm.jus.br/servicos-stm/certidao-negativa/emitir-certidao-negativa"
+        },
+        {
+          "name": "procweb.jfrj.jus.br",
+          "type": "url",
+          "url": "https://procweb.jfrj.jus.br/certidao/emissao_cert.asp"
+        },
+        {
+          "name": "tse.jus.br",
+          "type": "url",
+          "url": "https://www.tse.jus.br/eleitor/certidoes/certidao-de-crimes-eleitorais"
+        },
+        {
+          "name": "atestadodic.detran.rj.gov.br",
+          "type": "url",
+          "url": "http://atestadodic.detran.rj.gov.br/"
+        },
+        {
+          "name": "certidaoiifppcerj.detran.rj.gov.br",
+          "type": "url",
+          "url": "http://certidaoiifppcerj.detran.rj.gov.br/"
+        },
+        {
+          "name": "dedic.pcivil.rj.gov.br",
+          "type": "url",
+          "url": "https://dedic.pcivil.rj.gov.br/Consulta.aspx"
+        },
+        {
+          "name": "ib7.bradesco.com.br",
+          "type": "url",
+          "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJLoader.do"
+        },
+        {
+          "name": "ib7.bradesco.com.br",
+          "type": "url",
+          "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJDudaSelecionarProduto.do?cdProdutoInicial=INI"
+        },
+        {
+          "name": "ib7.bradesco.com.br",
+          "type": "url",
+          "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJGrmConsultar.do"
+        },
+        {
+          "name": "ib7.bradesco.com.br",
+          "type": "url",
+          "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/DebitoVeiculoRJGRTLoaderAction.do"
+        },
+        {
+          "name": "ib7.bradesco.com.br",
+          "type": "url",
+          "url": "https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJConsultaLoader.do"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6716"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6714"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6713"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Restinga_Seca"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Ijui"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Venancio_Aires"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Montenegro01"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Montenegro02"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6208.jpg"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Portao"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Sao_Jeronimo"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Farroupilha"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6212.jpg"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6213.jpg"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Caxias_do_Sul"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6743"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6744"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Glorinha"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Igrejinha"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Gramado01"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Gramado02"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Itati"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6210.jpg"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6214.jpg"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6215.jpg"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6216.jpg"
+        },
+        {
+          "name": "186.227.239.150",
+          "type": "url",
+          "url": "http://186.227.239.150:2150/ftp/imagem.php?id=Passo_Fundo"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6211.jpg"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6718"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/live/media/PK5916/DeviceIpint.6/SourceEndpoint.video:0:0"
+        },
+        {
+          "name": "191.253.194.194",
+          "type": "url",
+          "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.7/SourceEndpoint.video:0:0"
+        },
+        {
+          "name": "191.253.194.194",
+          "type": "url",
+          "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.8/SourceEndpoint.video:0:0"
+        },
+        {
+          "name": "191.253.194.194",
+          "type": "url",
+          "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.9/SourceEndpoint.video:0:0"
+        },
+        {
+          "name": "191.253.194.194",
+          "type": "url",
+          "url": "https://191.253.194.194:60000/live/media/PK5916/DeviceIpint.10/SourceEndpoint.video:0:0"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6734"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6737"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6739"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6748"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Serafina_Correa"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Nova_Bassano"
+        },
+        {
+          "name": "daer.kopp.com.br",
+          "type": "url",
+          "url": "https://daer.kopp.com.br/ftp/imagem.php?id=Sananduva"
+        },
+        {
+          "name": "daer2.fiscaltech.com.br",
+          "type": "url",
+          "url": "https://daer2.fiscaltech.com.br:8843/panoramicas/6204.jpg"
+        },
+        {
+          "name": "camerasdaer.perkons.com",
+          "type": "url",
+          "url": "https://camerasdaer.perkons.com:60000/DAER-6712"
+        },
+        {
+          "name": "pc.rs.gov.br",
+          "type": "url",
+          "url": "https://www.pc.rs.gov.br/emitir-certidao-de-antecedentes-policiais"
+        },
+        {
+          "name": "consulta.detran.ro.gov.br",
+          "type": "url",
+          "url": "https://consulta.detran.ro.gov.br/CentralDeConsultasInternet/Software/ViewConsultaVeiculos.aspx"
+        },
+        {
+          "name": "consulta.detran.ro.gov.br",
+          "type": "url",
+          "url": "https://consulta.detran.ro.gov.br/CentralDeConsultasInternet/Internet/Habilitacao/ConsultaProcesso.asp"
+        },
+        {
+          "name": "centralservicos.detran.ro.gov.br",
+          "type": "url",
+          "url": "https://centralservicos.detran.ro.gov.br/consulta/veiculo"
+        },
+        {
+          "name": "consulta.detran.ro.gov.br",
+          "type": "url",
+          "url": "https://consulta.detran.ro.gov.br/ResultadoProva"
+        },
+        {
+          "name": "semfazonline.portovelho.ro.gov.br",
+          "type": "url",
+          "url": "https://semfazonline.portovelho.ro.gov.br/portal/certidao_negativa.action<br>"
+        },
+        {
+          "name": "semfazonline.portovelho.ro.gov.br",
+          "type": "url",
+          "url": "https://semfazonline.portovelho.ro.gov.br/portal/iptu_consulta_debito_input.action"
+        },
+        {
+          "name": "semfazonline.portovelho.ro.gov.br",
+          "type": "url",
+          "url": "https://semfazonline.portovelho.ro.gov.br/portal/consulta_empresa_input.action"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_159&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_160&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10346/Interface/Cameras/GetJPEGStream?Camera=FNS_CEN_162&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_051&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_052&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_061&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "http://bemtevi.segurancapublica.sc.gov.br:10351/Interface/Cameras/GetJPEGStream?Camera=FNS_STM_062&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_012&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_020&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_CEN_032&width=1920&height=1080"
+        },
+        {
+          "name": "bemtevi.segurancapublica.sc.gov.br",
+          "type": "url",
+          "url": "https://bemtevi.segurancapublica.sc.gov.br:10311/Interface/Cameras/GetJPEGStream?Camera=BGC_VDV_040&width=1920&height=1080"
+        },
+        {
+          "name": "sistemas.pc.sc.gov.br",
+          "type": "url",
+          "url": "https://sistemas.pc.sc.gov.br/formulario-antecedentes-cidadao/#/"
+        },
+        {
+          "name": "serv42.limeira.sp.gov.br",
+          "type": "url",
+          "url": "https://serv42.limeira.sp.gov.br/procweb/cnsProcesso/"
+        },
+        {
+          "name": "policiacivil.sp.gov.br",
+          "type": "url",
+          "url": "https://www.policiacivil.sp.gov.br/portal/faces/pages_home/servicos/consultaSituacaoRG"
+        },
+        {
+          "name": "concluintes.educacao.sp.gov.br",
+          "type": "url",
+          "url": "https://concluintes.educacao.sp.gov.br/publica/consultapublica/Search"
+        },
+        {
+          "name": "transparencia.sp.gov.br",
+          "type": "url",
+          "url": "https://www.transparencia.sp.gov.br/home/servidor"
         }
       ]
     },

@@ -14,20 +14,43 @@ body {
   font-weight: bold;
   top: 20px;
   text-align: center;
+  position: relative;
+}
+
+#header img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100px;
+}
+
+.logo-dark {
+  display: none;
 }
 
 .dark-Mode{
   background-color: #000;
   color: #fff;
-  .node text {
-    fill: #fff;
-  }
-  .legend{
-    color: #fff;
-  }
-  path.link{
-    stroke: #444;
-  }
+}
+
+.dark-Mode .node text {
+  fill: #fff;
+}
+
+.dark-Mode .legend{
+  color: #fff;
+}
+
+.dark-Mode path.link{
+  stroke: #444;
+}
+
+.dark-Mode .logo-light {
+  display: none;
+}
+
+.dark-Mode .logo-dark {
+  display: block;
 }
 
 .legend {

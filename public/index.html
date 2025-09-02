@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link type="text/css" rel="stylesheet" href="css/arf.css"/>
     <script type="text/javascript" src="js/d3.v3.min.js"></script>
     <title>CAPIVARA OSINT</title>
@@ -13,33 +14,64 @@
         <img src="imgs/capivara_light_bg.png" class="logo-light" alt="Capivara OSINT Light Logo" />
         <img src="imgs/capivara_dark_bg.png" class="logo-dark" alt="Capivara OSINT Dark Logo" />
         CAPIVARA OSINT
-          <hr/>
+        <hr/>
       </div>
     </div>
 
     <script src="js/arf.js"></script>
 
-    <div class="legend"><p>(T) - Indica um link para uma ferramenta que deve ser instalada e executada localmente<br>
-    (D) - Google Dork, para mais informações: <a href="https://pt.wikipedia.org/wiki/Google_hacking">Google Hacking</a><br>
-    (R) - Requer registro<br>
-    (M) - Indica uma URL que contém o termo de busca e a própria URL deve ser editada manualmente<br></p>
-    <button onclick="goDark()">Alternar modo escuro</button></div>
-    
-    <h3>Notas</h3>
-    Framework OSINT focado em coletar informações de ferramentas ou recursos gratuitos. A intenção é ajudar as pessoas a encontrar recursos OSINT gratuitos. Alguns dos sites incluídos podem exigir registro ou oferecer mais dados por $$$, mas você deve conseguir obter pelo menos uma parte das informações disponíveis sem custo.<br>
+    <div class="legend">
+      <button onclick="goDark()">Alternar modo escuro</button>
+    </div>
 
-    <p>Originalmente, criei este framework com um ponto de vista de segurança da informação. Desde então, a resposta de outros campos e disciplinas tem sido incrível. Eu adoraria poder incluir quaisquer outros recursos OSINT, especialmente de campos fora da segurança da informação. Por favor, me informe sobre qualquer coisa que possa estar faltando!</p>
+    <h3>Notas</h3>
+    <p>
+      <strong>Capivara OSINT</strong> é um fork do projeto
+      <a href="https://github.com/lockfale/OSINT-Framework" target="_blank" rel="noopener">OSINT-Framework</a>.
+      Este fork mantém a estrutura original e integra conteúdo em português a partir do
+      <a href="https://github.com/osintbrazuca/osint-brazuca" target="_blank" rel="noopener">OSINT Brazuca</a>,
+      priorizando fontes, ferramentas e referências úteis para o contexto brasileiro.
+    </p>
+    <p>
+      O <em>OSINT-Framework</em> é uma árvore de navegação que organiza <strong>recursos de OSINT</strong> por categoria
+      (ex.: pessoas, redes sociais, domínios, metadados). Cada nó aponta para links, consultas e bases de dados de
+      <strong>código aberto</strong> que podem ajudar em investigações e coleta de informações públicas.
+      O foco são <strong>recursos gratuitos</strong> ou com camada gratuita; alguns serviços podem requerer cadastro
+      e/ou oferecer funcionalidades adicionais pagas.
+    </p>
+    <p>
+      O objetivo do Capivara OSINT é facilitar a descoberta de ferramentas e fluxos de trabalho OSINT em português,
+      preservando a filosofia do projeto original e adicionando referências locais sempre que fizer sentido.
+    </p>
+    <p>
+      Repositório público e open source do fork: 
+      <a href="https://github.com/rafabez/OSINT-Framework-BRFork" target="_blank" rel="noopener">
+        github.com/rafabez/OSINT-Framework-BRFork
+      </a>.
+      Sugestões e contribuições são bem-vindas por <em>issues</em> e <em>pull requests</em>.
+    </p>
 
     <h3>Para Notificações de Atualização</h3>
-    Siga o desenvolvedor original no Twitter: <a href="https://twitter.com/jnordine">@jnordine</a><br>
-    Acompanhe ou marque com estrela o projeto original no Github: <a href="https://github.com/lockfale/osint-framework">https://github.com/lockfale/osint-framework</a>
+    <p>
+      Acompanhe e marque com estrela os repositórios:
+      <br>
+      • Fork em PT-BR: <a href="https://github.com/rafabez/OSINT-Framework-BRFork" target="_blank" rel="noopener">github.com/rafabez/OSINT-Framework-BRFork</a><br>
+      • Projeto original: <a href="https://github.com/lockfale/OSINT-Framework" target="_blank" rel="noopener">github.com/lockfale/OSINT-Framework</a>
+    </p>
 
     <h3>Sugestões, Comentários, Feedback</h3>
-    Sugestões de feedback ou novas ferramentas são extremamente bem-vindas! Sinta-se à vontade para entrar em contato no Twitter ou enviar um problema no Github.
+    <p>
+      Feedback e indicações de novas ferramentas são bem-vindos. Abra uma <em>issue</em> no repositório do fork ou do projeto original.
+    </p>
 
     <h3>Agradecimentos</h3>
-    Este projeto é uma adaptação do excelente trabalho original de <a href="https://github.com/lockfale/osint-framework">lockfale/OSINT-Framework</a> e incorpora recursos do <a href="https://github.com/osintbrazuca/osint-brazuca">OSINT Brazuca</a>. Agradecemos a ambos os projetos por suas contribuições valiosas para a comunidade OSINT.
-
+    <p>
+      Nosso reconhecimento aos desenvolvedores e mantenedores do
+      <a href="https://github.com/lockfale/OSINT-Framework" target="_blank" rel="noopener">OSINT-Framework</a>
+      pelo projeto original e à comunidade do
+      <a href="https://github.com/osintbrazuca/osint-brazuca" target="_blank" rel="noopener">OSINT Brazuca</a>
+      pela curadoria e conteúdo em português que inspiraram e enriqueceram este fork.
+      Obrigado a todos os contribuidores de ambos os projetos.
+    </p>
   </body>
-
 </html>

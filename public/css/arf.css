@@ -18,7 +18,7 @@ body {
 }
 
 #header img {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   height: 100px;
@@ -55,7 +55,7 @@ body {
 
 .legend {
   position: absolute;
-  top: 0px;
+  top: 35px;
   right: 0;
   width: 330px;
   font-size: 11px;
